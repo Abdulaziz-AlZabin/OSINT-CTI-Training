@@ -1,5 +1,7 @@
 Misc OSINT: Techniques Worth Knowing
 
+https://raw.githubusercontent.com/OsintDojo/public/3f178408909bc1aae7ea2f51126984a8813b0901/sakurapwnedletter.svg
+
 ## Overview
 
 Most investigations are not one clever trick. They are a chain of small, ordinary moves, each of which hands you the next lead: a file that names a user, a user that has a profile, a profile that links to a code account, a repository that remembers something deleted, a wallet, an old web page, a list of wireless networks, a photograph. Any one of these is easy. Knowing that each one exists, what it can and cannot tell you, and how to join them without fooling yourself is the skill.
